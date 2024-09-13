@@ -21,4 +21,14 @@ Ensure you have Python 3.x installed along with the necessary packages:
 pip install numpy pandas
 ```
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/VustyWu/CLV-Migration-model/tree/main
+
+
+Prepare your data frames:
+
+rule_df: DataFrame containing rules for calculating weights.
+retention_df: DataFrame containing retention rates.
+rate_df: DataFrame containing rates.
+contribution_df: DataFrame containing contributions.
+ratio_df: DataFrame containing ratios.
+clv_df: DataFrame containing initial CLV values.
