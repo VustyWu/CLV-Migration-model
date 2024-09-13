@@ -48,7 +48,7 @@ The **CLVCalculator** processes customer data to calculate the Customer Lifetime
 Understanding the Calculations
 - **Weights Calculation**: The model calculates weights for each value in the number DataFrame based on the rule DataFrame, ensuring that retention and rate calculations are accurate.
 - **Outlier Remediation**: The outlier handling method adjusts extreme values in the rate and ratio matrices to prevent them from skewing the results.
-- **Future Projections***: By providing future retention rates and ratios, the model predicts how the CLV might change over upcoming periods.
+- **Future Projections**: By providing future retention rates and ratios, the model predicts how the CLV might change over upcoming periods.
 
   You may follow the demo with specific examples
 
