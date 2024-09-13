@@ -19,4 +19,6 @@ Ensure you have Python 3.x installed along with the necessary packages:
 
 ```bash
 pip install numpy pandas
+```
+
 git clone https://github.com/yourusername/your-repo-name.git
